@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, everyone I'm Nitesh Tiwari & Currently in B.tech 1st Year.<br>🤝 I’m looking for help with fellow learners and experienced Coder's.<br>🌱 I’m currently learning Java, C++&Full Stack<br>⚡ Fun fact - I never loved hectic works..... 
+Hello, everyone I'm Nitesh Tiwari & Currently in B.tech 2nd Year.<br>🤝 I’m looking for help with fellow learners and experienced Coder's.<br>🌱 I’m currently learning Java, C++&Full Stack<br>⚡ Fun fact - I never loved hectic works..... 
 
 
 ## 🌐 Socials:
